@@ -396,6 +396,11 @@ OSD.constants = {
                     preview: FONT.symbol(SYM.RSSI) + '99'
                 },
                 {
+                    name: 'CRSF_LINK_QUALITY',
+                    id: 41,
+                    preview: FONT.symbol(SYM.RSSI) + '300'
+                },
+                {
                     name: 'MAIN_BATT_VOLTAGE',
                     id: 1,
                     preview: FONT.symbol(SYM.VOLT) + FONT.embed_dot('16.8V')

@@ -2304,6 +2304,9 @@
     "osdElement_RSSI_VALUE_HELP": {
         "message": "Shows the quality of the signal received from the RC radio (the higher the better)."
     },
+    "osdElement_CRSF_LINK_QUALITY": {
+        "message": "CRSF Link Quality (0-300%)"
+    },
     "osdElement_MAIN_BATT_VOLTAGE": {
         "message": "Battery Voltage"
     },
